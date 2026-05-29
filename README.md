@@ -1,1 +1,19 @@
 # DropGame---AndroidStudioProject
+## Este es un proyecto hecho en Android Studio con Java en el que debes recolectar fresas mientras esquivas bombas
+
+## ITEMS:
+### Fresa
+Otorga 1 punto al jugador
+<img width="321" height="417" alt="drop" src="https://github.com/user-attachments/assets/eb96e316-555e-4b1a-80f9-d4430327847c" />
+### Fresa lunar
+Otorga 3 puntos al jugador, a cambio de aparecer con menos frecuencia
+<img width="1200" height="1200" alt="dropBig" src="https://github.com/user-attachments/assets/c3f783b8-e313-40f9-86f2-403774658795" />
+### Bomba
+Resta 3 puntos al jugador, siendo un obstáculo a la hora de recolectar fresas
+<img width="2000" height="2000" alt="bomb" src="https://github.com/user-attachments/assets/7db0745f-3708-4605-9bf9-0f9b2be968ae" />
+
+Créditos músicales:
+Música del menú: "Frog summer" por Leon Chang
+https://www.youtube.com/watch?v=4MBeRNMGNJs&pp=ygUWZnJvZyBzdW1tZXIgbGVvbiBjaGFuZw%3D%3D
+Música del juego: "Anyone in 2025?" por しゃろう Sharou
+https://www.youtube.com/watch?v=G0XyJWLLWdA&pp=ygUVYW55b25lIGluIDIwMjUgc2hhcm910gcJCSMLAYcqIYzv
