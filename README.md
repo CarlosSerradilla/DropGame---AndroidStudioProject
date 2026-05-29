@@ -3,7 +3,7 @@
 
 En el juego deberas recolectar fresas con un cubo usando el ratón o las flechas del teclado mientras esquivas bombas en partidas de un minuto intentando superar tu récord
 
-<img width="1280" height="720" alt="2026-05-29-19-54-10-Trim" src="https://github.com/user-attachments/assets/d96dcd6d-9b1a-466b-b644-f0d9e982ae99" />
+<img width="640" height="360" alt="2026-05-29-19-54-10-Trim" src="https://github.com/user-attachments/assets/d96dcd6d-9b1a-466b-b644-f0d9e982ae99" />
 
 ## ITEMS:
 ### Fresa
